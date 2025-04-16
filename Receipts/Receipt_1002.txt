@@ -1,0 +1,7 @@
+Market.model.Receipt ID: 1002
+Market.model.Cashier: Sami Mami
+Date: 2024-11-07T11:50:04.626135300
+Items:
+- FOOD: 9 @ 1.25 each
+- NON_FOOD: 9 @ 250.0 each
+Total Amount: 2261.25
