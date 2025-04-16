@@ -1,6 +1,6 @@
 Market.model.Receipt ID: 1001
 Market.model.Cashier: Ani Banani
-Date: 2024-11-07T11:50:04.617137200
+Date: 2025-04-16T12:28:43.401560200
 Items:
 - FOOD: 2 @ 1.5 each
 - NON_FOOD: 1 @ 15.0 each
